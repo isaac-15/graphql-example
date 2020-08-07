@@ -7,3 +7,7 @@ Meats:
 -beef
 -ham
 -chicken breast
+
+Fruit:
+-Apples
+-Mangos

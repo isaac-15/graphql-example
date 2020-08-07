@@ -1,0 +1,4 @@
+Dairy:
+-milk
+-yogurt
+-cheese

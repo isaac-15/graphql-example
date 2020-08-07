@@ -2,3 +2,8 @@ Dairy:
 -milk
 -yogurt
 -cheese
+
+Meats:
+-beef
+-ham
+-chicken breast

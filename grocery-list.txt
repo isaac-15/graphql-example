@@ -15,3 +15,5 @@ Fruit:
 -Bananas
 -Pears
 
+Vegetables:
+-celery

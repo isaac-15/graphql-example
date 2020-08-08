@@ -15,7 +15,6 @@ Fruit:
 -Bananas
 -Pears
 
-
 Vegetabels:
 -broccoli
 -celery
